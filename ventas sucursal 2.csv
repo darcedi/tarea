@@ -1,4 +1,11 @@
 ﻿SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,productName,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal
-999990,999990,12,356.90,356.90,0.00,0,836,"ML Road Frame-W - Yellow, 48",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
-999991,999991,7,356.90,356.90,0.00,0,822,"ML Road Frame-W - Yellow, 38",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
-999992,999992,8,63.90,63.90,0.00,0,907,Rear Brakes,47.29,106.50,NULL,NULL,NULL,01/07/2021 00:00,Wokingham,Sucursal 2
+999990,999990,12,356.9,356.9,0,0,836,"ML Road Frame-W - Yellow, 48",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999991,999991,7,356.9,356.9,0,0,822,"ML Road Frame-W - Yellow, 38",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999992,999992,8,63.9,63.9,0,0,907,Rear Brakes,47.29,106.5,NULL,NULL,NULL,01/07/2021 00:00,Wokingham,Sucursal 2
+999993,999993,19,240.9,240.9,0,0,837,"ML Road Frame-W - Yellow, 58",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999994,999994,15,344.9,344.9,0,0,838,"ML Road Frame-W - Yellow, 68",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999995,999995,12,101.9,101.9,0,0,839,"ML Road Frame-W - Yellow, 78",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999996,999996,20,190.9,190.9,0,0,823,"ML Road Frame-W - Yellow, 38",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999997,999997,4,221.9,221.9,0,0,824,"ML Road Frame-W - Yellow, 88",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999998,999998,5,90.9,90.9,0,0,825,"ML Road Frame-W - Yellow, 98",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
+999999,999999,7,261.9,261.9,0,0,826,"ML Road Frame-W - Yellow, 18",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Auburn,Sucursal 2
