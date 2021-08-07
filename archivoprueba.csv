@@ -1,13 +1,7 @@
-﻿SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,productName,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal
-999990,999990,2,356.9,356.9,0,0,836,ML Road Frame - W - Yellow 48,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 2
-999991,999991,2,356.9,356.9,0,0,822,ML Road Frame - W - Yellow 38,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 2
-999992,999992,2,63.9,63.9,0,0,907,Rear Brakes,47.29,106.5,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 2
-999993,999993,3,240.9,240.9,0,0,837,ML Road Frame - W - Yellow 58,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 2
-999994,999994,3,344.9,344.9,0,0,838,ML Road Frame - W - Yellow 68,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 2
-999995,999995,3,101.9,101.9,0,0,839,ML Road Frame - W - Yellow 78,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 2
-999996,999996,3,190.9,190.9,0,0,823,ML Road Frame - W - Yellow 88,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 2
-999997,999997,3,211.9,211.9,0,0,824,ML Road Frame - W - Yellow 98,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 2
-999998,999998,3,90.9,90.9,0,0,825,ML Road Frame - W - Yellow 18,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 2
-999999,999999,3,261.9,261.9,0,0,826,ML Road Frame - W - Yellow 28,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 2
-1000000,1000000,3,261.9,261.9,0,0,826,ML Road Frame - W - Yellow 28,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 3
-1000001,1000001,3,261.9,261.9,0,0,826,ML Road Frame - W - Yellow 28,360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 4
+C:\Users\jemil\Documents\archivoprueba.csv;?SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,productName,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal
+999993,999993,2,350.1,350.1,0,350.1,800,Llantas,360.11,594.83,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 3
+999994,999994,2,351.1,351.1,0,351.1,801,Llantas,360.12,594.84,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 3
+999995,999995,2,352.1,352.1,0,352.1,802,Llantas,360.13,594.85,NULL,NULL,NULL,01/07/2021 00:00,Durango,Sucursal 3
+999996,999996,3,353.1,353.1,0,353.1,803,Llantas,360.14,594.86,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 4
+999997,7,3,354.1,354.1,0,354.1,804,Llantas,360.15,594.87,NULL,NULL,NULL,01/07/2021 00:00,Michoacan,Sucursal 4
+
